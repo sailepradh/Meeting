@@ -23,7 +23,7 @@ ___
 
 ##### Aim
  * Update on individual project
- * Cordinate and collaborate between differnt projects 
+ * Coordinate and collaborate between differnt projects 
  
 ##### Format
   * Roughly 1 hour depending upon time and personels
@@ -36,9 +36,10 @@ ___
   
 ##### Project infomation
 
-###### Cardiovascilar complex disease
+###### Project1: Cardiovascilar complex disease
 
-Genral aim is to understand non coding regulatory variants involved in arthesclerosis
+* Genral aim is to understand non coding regulatory variants involved in arthesclerosis
+* THP1 --> relevant celltype
+* THP1+LPS --> to understand innate immune sytem activated in THP1
 
 
-  
