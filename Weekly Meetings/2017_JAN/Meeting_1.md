@@ -1,6 +1,6 @@
-# 04/16/2017
-# Supernova Alpha1
+# 04/16/2017 Supernova Alpha1
 
+___
 
 This was first meeting group meeting we were having. So we decided on the aims, formats and project information.
 
@@ -32,8 +32,13 @@ ___
   * General idea listen and get involved although everything does not make sense
   
 ##### Individual Updates
-  * Today we had general introduction of lab members and projects we are involved in.
+   Today we had general introduction of lab members and projects we are involved in.
+  
+##### Project infomation
 
-  
-  
+###### Cardiovascilar complex disease
+
+Genral aim is to understand non coding regulatory variants involved in arthesclerosis
+
+
   
