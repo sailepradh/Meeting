@@ -81,4 +81,10 @@ ___
 
 * Aim: Enable complex resolution of epigentic data
 
+___
+### Connecting themes
+ 
+ * Non coding regulatory variants in differnt complex disease
+ * Robust version of HiCap data analysis 
+
 
