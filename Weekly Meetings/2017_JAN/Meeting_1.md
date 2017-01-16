@@ -66,3 +66,19 @@ ___
 * Closer to clinical usages
 
 
+###### Project6: Lung Cancer toxicity project
+
+* Aim: Identify gremline mutation that would cause high and low toxicity in lung cancer patients
+* 3 relevant cell type and treated with drugs (before and after)
+* Hi-Cap probe set from prioritizing WGS variants 
+
+###### Project7:GM12878 cell line
+
+* Interaction between different zygosity of an genome
+* Celline with most epigenetic data 
+
+###### Project8: Ligation-free method development
+
+* Aim: Enable complex resolution of epigentic data
+
+
