@@ -1,4 +1,4 @@
-## Jan 16 2017
+## Jan/16/2017-- Supernova Alpha1
 
 #### Meeting Notes
 
@@ -15,3 +15,17 @@ This was first meeting group meeting we were having. So we decided on the aims, 
 * Ayla De Paepe ayla.de.paepe@ki.se
 * Mona Hassan monahas@kth.se
 * Pontus Höjer phojer@kth.se
+
+#### Meeting Notes
+
+Aim
+ update on individual project
+ Coridnate and collaborate between differnt projects at Complex trait genomics
+ 
+ Format
+  roughly 1 hour depending upon time and personels
+  five minute each for all the partcipants and talk about own project
+  More focus on discusssion of the participants on projects
+  general idea is to listen and get involved
+  
+  
