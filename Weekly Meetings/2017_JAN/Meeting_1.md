@@ -55,7 +55,7 @@ ___
 
 ###### Project4: Eczema project 
 
-* Ezema —> complex disease—> over hundred GWAS study
+* Eczema —> complex disease—> over hundred GWAS study
 * HiCap and RNA data on keratinocytes
 * Observe target genes that are associated with variants 
 
