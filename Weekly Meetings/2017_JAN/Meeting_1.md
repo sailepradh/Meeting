@@ -1,4 +1,4 @@
-# 04/16/2017 Supernova Alpha1
+# 04/16/2017 (Supernova Alpha1)
 
 ___
 
@@ -9,11 +9,11 @@ ___
 
 #### Attendees
 * Pelin Sahlen pelinak@kth.se
-* Sailendra Pradhananga sailendra.pradhananga@scilifelab.se
 * Rapolas Spalinskas rapolas.spalinskas@scilifelab.se
+* Örjan Åkerborg orjan.akerborg@scilifelab.se>
+* Sailendra Pradhananga sailendra.pradhananga@scilifelab.se
 * Anil Anandashankar aanil@scilifelab.se
 * Tobias Everhorn tev@kth.se
-* Örjan Åkerborg orjan.akerborg@scilifelab.se>
 * Ayla De Paepe ayla.de.paepe@ki.se
 * Pontus Höjer phojer@kth.se
 
@@ -36,10 +36,21 @@ ___
   
 ##### Project infomation
 
-###### Project1: Cardiovascilar complex disease
+###### Project1: Cardiovascular non coding regulatory variants
 
 * Genral aim is to understand non coding regulatory variants involved in arthesclerosis
 * THP1 --> relevant celltype
-* THP1+LPS --> to understand innate immune sytem activated in THP1
+* THP1+LPS --> to understand innate immune sytem activated and see how regulatory netwrok is rewired with addition of LPS.
+* RNA data in response to LPS
+* HiCap data to see regularoy network enriched withLPS pathway
+
+###### Project2: Analysis pipeline for HI-Cap data analysis
+
+*  analyze Hi-Ca data with different parameters optimization
+
+###### Project3: Rare form atherosclerosis
+
+* 
+
 
 
