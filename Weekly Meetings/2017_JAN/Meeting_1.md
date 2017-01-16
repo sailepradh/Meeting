@@ -29,10 +29,11 @@ ___
   * Five minute each for all the partcipants 
   * More focus on discusssion rather than informting about projects
   * General idea listen and get involved although everything does not make sense
-  
+ ___
 #### Individual Updates
    Today we had general introduction of lab members and projects we are involved in.
   
+ ___
 #### Project infomation
 
 ###### Project1: Cardiovascular non coding regulatory variants
