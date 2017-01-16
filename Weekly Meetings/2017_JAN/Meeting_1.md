@@ -1,6 +1,6 @@
 # Jan 16 2017 ---> (Supernova Alpha1)
 
-___
+---
 
 This was first meeting group meeting we were having. So we decided on the aims, formats and project information.
 
