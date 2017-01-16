@@ -1,8 +1,9 @@
 ## Jan/16/2017-- Supernova Alpha1
 
-#### Meeting Notes
 
 This was first meeting group meeting we were having. So we decided on the aims, formats and project information.
+
+___
 
 
 #### Attendees
@@ -14,6 +15,8 @@ This was first meeting group meeting we were having. So we decided on the aims, 
 * Örjan Åkerborg orjan.akerborg@scilifelab.se>
 * Ayla De Paepe ayla.de.paepe@ki.se
 * Pontus Höjer phojer@kth.se
+
+___
 
 #### Meeting Notes
 
