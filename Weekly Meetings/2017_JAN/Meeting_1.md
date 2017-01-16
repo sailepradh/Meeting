@@ -9,7 +9,7 @@ ___
 ### Attendees
 * Pelin Sahlen pelinak@kth.se
 * Rapolas Spalinskas rapolas.spalinskas@scilifelab.se
-* Örjan Åkerborg orjan.akerborg@scilifelab.se>
+* Örjan Åkerborg orjan.akerborg@scilifelab.se
 * Sailendra Pradhananga sailendra.pradhananga@scilifelab.se
 * Anil Anandashankar aanil@scilifelab.se
 * Tobias Everhorn tev@kth.se
