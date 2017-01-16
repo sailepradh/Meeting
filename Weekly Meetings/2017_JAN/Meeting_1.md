@@ -22,16 +22,17 @@ ___
 
 ##### Aim
  * Update on individual project
- * Coridnate and collaborate between differnt projects at Complex trait genomics
+ * Cordinate and collaborate between differnt projects 
  
 ##### Format
   * Roughly 1 hour depending upon time and personels
-  * Five minute each for all the partcipants and talk about own project
-  * More focus on discusssion of the participants on projects
-  * General idea -->  listen and get involved
+  * Five minute each for all the partcipants 
+  * More focus on discusssion rather than informting about projects
+  * General idea listen and get involved although everything does not make sense
   
 ##### Individual Updates
-  * Today we had general introduction on individual and projects we are involved on
+  * Today we had general introduction of lab members and projects we are involved in.
+
   
   
   
