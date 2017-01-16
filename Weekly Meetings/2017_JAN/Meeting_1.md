@@ -7,7 +7,7 @@ This was first meeting group meeting we were having. So we decided on the aims, 
 ___
 
 
-#### Attendees
+### Attendees
 * Pelin Sahlen pelinak@kth.se
 * Rapolas Spalinskas rapolas.spalinskas@scilifelab.se
 * Örjan Åkerborg orjan.akerborg@scilifelab.se>
@@ -19,22 +19,22 @@ ___
 
 ___
 
-#### Meeting Notes
+### Meeting Notes
 
-##### Aim
+#### Aim
  * Update on individual project
  * Coordinate and collaborate between differnt projects 
  
-##### Format
+#### Format
   * Roughly 1 hour depending upon time and personels
   * Five minute each for all the partcipants 
   * More focus on discusssion rather than informting about projects
   * General idea listen and get involved although everything does not make sense
   
-##### Individual Updates
+### Individual Updates
    Today we had general introduction of lab members and projects we are involved in.
   
-##### Project infomation
+### Project infomation
 
 ###### Project1: Cardiovascular non coding regulatory variants
 
@@ -50,7 +50,19 @@ ___
 
 ###### Project3: Rare form atherosclerosis
 
-* 
+* 4 patients with rare form condition
+* Hypothesis: possible interaction of non coding variants
 
+###### Project4: Eczema project 
+
+* Ezema —> complex disease—> over hundred GWAS study
+* HiCap and RNA data on keratinocytes
+* Observe target genes that are associated with variants 
+
+###### Project5: ALL project + Clinicians
+
+* Blood cancer —> CGH array (low resolution)
+* Detect SNP and relevant genes 
+* Closer to clinical usages
 
 
