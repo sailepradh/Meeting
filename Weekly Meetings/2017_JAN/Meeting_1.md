@@ -1,4 +1,4 @@
-# 04/16/2017 (Supernova Alpha1)
+# Jan 16 2017 ---> (Supernova Alpha1)
 
 ___
 
@@ -39,8 +39,8 @@ ___
 ###### Project1: Cardiovascular non coding regulatory variants
 
 * Genral aim is to understand non coding regulatory variants involved in arthesclerosis
-* THP1 --> relevant celltype
-* THP1+LPS --> to understand innate immune sytem activated and see how regulatory netwrok is rewired with addition of LPS.
+* THP1 —> relevant celltype
+* THP1+LPS —> to understand innate immune sytem activated and see how regulatory netwrok is rewired with addition of LPS.
 * RNA data in response to LPS
 * HiCap data to see regularoy network enriched withLPS pathway
 
