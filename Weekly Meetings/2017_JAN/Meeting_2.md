@@ -21,50 +21,49 @@ ___
 
 ###### Tobias Everhorn
 
-* Genral aim is to understand non coding regulatory variants involved in arthesclerosis
-* THP1 —> relevant celltype
-* THP1+LPS —> to understand innate immune sytem activated and see how regulatory netwrok is rewired with addition of LPS.
-* RNA data in response to LPS
-* HiCap data to see regularoy network enriched withLPS pathway
+ * Worked on B cell development data
+ * Processing of data Pelin’s pipleine and scripting 
+ * Expectation —> promoter promoter interaction from HiC
+ * Issues: Tad calls and CTCF coordinates 
 
 ###### Anil Anandashankar
 
-*  analyze Hi-Ca data with different parameters optimization
+* Analyzed probe and probe distance and p-value calculation
+* Scripting SNP calling from THP1 celllines
+* Talked about naming interactome suite.--> Proposed name "PRIDE??"
+* Issues: Talked about backgorund Probe- Probe interaction bias 
 
 ###### Ayla De Paepe
 
-* 4 patients with rare form condition
-* Hypothesis: possible interaction of non coding variants
+* Reading on background on B-cell development, Histone modifications
+* Alot of reading and writing
 
 ###### Sailendra Pradhananga
 
-* Eczema —> complex disease—> over hundred GWAS study
-* HiCap and RNA data on keratinocytes
-* Observe target genes that are associated with variants 
+* Priotize WGS variants from the 96 samples
+* Clustering of samples based on toxicity information
+* Issues: Clustering methods and enrichment of variants from hgih and low toxicity 
 
 ###### Pontus Höjer
 
-* Blood cancer —> CGH array (low resolution)
-* Detect SNP and relevant genes 
-* Closer to clinical usages
-
+* Ligation-free method development
+* Optimize sonication parameters 
+* 1% (8 min, 10,14,16—18 mins...)
 
 ###### Mona 
 
-* Aim: Identify gremline mutation that would cause high and low toxicity in lung cancer patients
-* 3 relevant cell type and treated with drugs (before and after)
-* Hi-Cap probe set from prioritizing WGS variants 
+*  Project introduction and learning objectives
+*  THP1, macrophages Promoter - Promoter interaction
 
 ###### Rapolas Spalinskas
 
-* Interaction between different zygosity of an genome
-* Celline with most epigenetic data 
-
-
+*  Collaborative work with sanger on interactome of mouse data 
+*  Work related to direct implication of gene
+*  Targeted analaysis 
 ___
-### Connecting themes
+### Open end discussion 
  
- * Non coding regulatory variants in differnt complex disease
- * Robust version of HiCap data analysis 
+ * Eceryone seemed interested to learn 3C , HICAp techniques
+ * Look for possibility of running some inhand course in 3C, HiCap
 
 
