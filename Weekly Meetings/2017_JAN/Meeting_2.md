@@ -15,13 +15,9 @@ ___
 * Ayla De Paepe ayla.de.paepe@ki.se
 * Pontus Höjer phojer@kth.se
 * Mona
-___
-
-#### Individual Updates
-   Today we had general introduction of lab members and projects we are involved in.
   
 ___
-#### Project infomation
+#### #### Individual Updates
 
 ###### Tobias Everhorn
 
