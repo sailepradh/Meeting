@@ -14,7 +14,7 @@ ___
 * Tobias Everhorn tev@kth.se
 * Ayla De Paepe ayla.de.paepe@ki.se
 * Pontus Höjer phojer@kth.se
-* Mona
+* Mona Hassan monahas@kth.se
   
 ___
 
