@@ -1,7 +1,7 @@
 # Jan 23 2017 ---> (Supernova Alpha1)
 
 
-We continued the second meeting and we focused on individual projects and works
+We continued the second meeting and focused on individual projects, updates and issues.
 
 ___
 
