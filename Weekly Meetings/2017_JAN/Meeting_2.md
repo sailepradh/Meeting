@@ -62,9 +62,10 @@ ___
 *  Work related to direct implication of gene
 *  Targeted analaysis 
 ___
+
 ### Open end discussion 
  
- * Eceryone seemed interested to learn 3C , HICAp techniques
- * Look for possibility of running some inhand course in 3C, HiCap
+ *  Everyone seemed interested to learn 3C , HICAp techniques
+ *  Possbility of running some in-hand workshop/lecture/expeiments in 3C, HiCap
 
 
