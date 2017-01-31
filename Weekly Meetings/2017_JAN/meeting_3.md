@@ -1,6 +1,6 @@
 # Jan 30 2017 ---> (Supernova Alpha1)
 
-Third meeting was short and we discussed about project and priorrities
+Third meeting was concise and we discussed about project and priorrities
 
 ___
 
