@@ -56,14 +56,8 @@ ___
 ###### Örjan Åkerborg
 
 * Struggling with THP1 dataset
-* Continue with CDV 
-* Wotk with other second most significandce tissue
-
-###### Örjan Åkerborg
-
-*  Hi CAP B cell development 
-* probe-probe development, probe -distance distribution
-* Some plots regarding the analysis
+* Continue with CVD
+* Work with other second most significandce tissue
 
 ___
 
