@@ -21,7 +21,7 @@ ___
 
 ###### Rapolas Spalinskas
 
-* finalized with RNAIse and prepared RNA and expression data in there
+* finalized with RNAIse and prepared RNA and expression data
 * Pooled libraries of the RNA seq
 * 4C done as well
 * Assisted in Ponuts and worked in chipseq
@@ -30,40 +30,37 @@ ___
 
 ###### Sailendra Pradhananga 
 
-* Prioritized variants list from 
-* Issues with projectplan and ISPs
+* Prioritized variants list from High and low toxicity group
+* Meeting too late.. Prolly meet early??
 
 ###### Pontus Höjer
 
 * Chip training
-* Sonification optimization
-* Looked good 
-* Optimized to get 10 min an
+* Sonification optimization --> looked good
+* Optimized with 10 min time 
 
 ###### Anil Anandashankar
 
 * Finished negative probe design
-* Run GATK Variant calling in THP1--> Send to Mona VCF
+* Ran GATK Variant calling in THP1--> Send to Mona VCF
 * Compare the frequencies of allele frequencies between Hicap and cancer cell
 * Post ananlysis of network
-* Can do Chipseq analysis
 
 ###### Mona Hassan
 
-* exceeded the limits of project uppmax 
-*  Working with Variants calling from cancer.
+* Exceeded the limits of project uppmax 
+* Working with Variants calling from cancer.
 
 ###### Örjan Åkerborg
 
-* Struggling with THP1 dataset
-* Continue with CVD
-* Work with other second most significandce tissue
+* Issues with THP1 dataset
+* Thus Continue with CVD
 
 ___
 
 ### Open end discussion 
  
  * LPS Innate encounterd and immune databases
- * A lot longer data and write to experts
+ * A lot of data but sparsed
  * Read all : Paper : " Enhancer Variants Synergistically Drive Dysfunction of a Gene Regulatory Network In Hirschsprung Disease "
- * Find with samll varaints and if they syngerstically cause a disease
+ * Find variants samll effect size working syngerstically to cause a complex disease
