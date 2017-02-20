@@ -71,5 +71,5 @@ ___
  
  * LPS Innate encounterd and immune databases
  * A lot longer data and write to experts
- * Paper : " Enhancer Variants Synergistically Drive Dysfunction of a Gene Regulatory Network In Hirschsprung Disease "
+ * Read all : Paper : " Enhancer Variants Synergistically Drive Dysfunction of a Gene Regulatory Network In Hirschsprung Disease "
  * Find with samll varaints and if they syngerstically cause a disease
