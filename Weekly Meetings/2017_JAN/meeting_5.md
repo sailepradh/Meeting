@@ -1,6 +1,6 @@
-# Fev 20 2017 ---> (Supernova Alpha1)
+# Feb 20 2017 ---> (Supernova Alpha1)
 
-Fifth meeting :Updates on project and priorirtes
+Fifth meeting in series : Updates on project and priorirtes
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 ###### Sailendra Pradhananga 
 
-* Working with thresholding values in WGS cluster 
+* Prioritized variants list from 
 * Issues with projectplan and ISPs
 
 ###### Pontus Höjer
