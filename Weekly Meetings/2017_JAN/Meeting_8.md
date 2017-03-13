@@ -77,4 +77,3 @@ ___
  
 * Paper submission and software testing
 * Custom design and interaction
-* Meeting with Immunologists
