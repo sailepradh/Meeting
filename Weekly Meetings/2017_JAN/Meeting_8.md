@@ -13,7 +13,6 @@ ___
 * Anil Anandashankar aanil@scilifelab.se
 * Tobias Everhorn tev@kth.se
 * Pontus Höjer phojer@kth.se
-* Mona Hassan monahas@kth.se
 * Ayla De Paepe ayla.de.paepe@ki.se
   
 ___
@@ -22,15 +21,15 @@ ___
 
 ###### Örjan Åkerborg
 
-* Allle frequency differnece between Hi-CAp and WGS indicating could one allele interaction
-* GWAS Snps alllele asymmetry of Hicap hetrozygous data set
-* Prioritizing some variants for validation of data
+* Allele frequency differnece between Hi-CAp and WGS --> one allele interaction
+* GWAS Snps allele asymmetry of Hicap hetrozygous data set
+* Working on Prioritizing some variants for validation of data for Mona
 
 ###### Rapolas Spalinskas
-* Grow Macrophages and experimental plan preparing protocol
-* Edtablishment of validation project on ThP1
+* Grow Macrophages and experimental plan preparing + protocol setup
+* Establishment of validation project on ThP1
 * Hi-CAP for all lung cancer project ongoing
-* HEMSA Kit
+* HEMSA Kit buying
 * Human liver sample from some collaborator
 
 ###### Tobias Everhorn
@@ -43,10 +42,9 @@ ___
 ###### Ayla De Paepe
 
 * Half time done 
-* Comment :- "CLL --> DNA methylation" 
 * Winter Conference
 * To do: CLL project "Rerun of printable pictures"
-* Deadlines for project
+* Deadlines for projects 
 * peak calling scripts for chiseq data for Pontus
 
 ###### Sailendra Pradhananga 
@@ -58,7 +56,7 @@ ___
 
 * Second chip in GM cells and quantification; However lesser
 * Troubleshooting done 
-* Redo the GN Chipseq 
+* Redo the GM Chipseq 
 * qPCR with 5 minutes 
 
 ###### Anil Anandashankar
