@@ -1,4 +1,4 @@
-# March 13 2017 ---> (Supernova Alpha1)
+# March 27 2017 ---> (Supernova Alpha1)
 
 Fifth meeting in series : Updates on project and priorirtes
 
