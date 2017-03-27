@@ -1,79 +1,69 @@
 # March 27 2017 ---> (Supernova Alpha1)
 
-Fifth meeting in series : Updates on project and priorirtes
+Ninth meeting in series : Updates on project and priorirtes
 
 ___
-
-
 ### Attendees
 * Pelin Sahlen pelinak@kth.se
 * Örjan Åkerborg orjan.akerborg@scilifelab.se
 * Rapolas Spalinskas rapolas.spalinskas@scilifelab.se
 * Sailendra Pradhananga sailendra.pradhananga@scilifelab.se
 * Anil Anandashankar aanil@scilifelab.se
-* Tobias Everhorn tev@kth.se
 * Pontus Höjer phojer@kth.se
-* Ayla De Paepe ayla.de.paepe@ki.se
-  
 ___
 
 #### Individual Updates
 
 ###### Örjan Åkerborg
 
-* Allele frequency differnece between Hi-CAp and WGS --> one allele interaction
-* GWAS Snps allele asymmetry of Hicap hetrozygous data set
-* Working on Prioritizing some variants for validation of data for Mona
+* Network of ThP1
+* Enhancer expressions
+* Interesting result from interaction network and GWAS 
+* Liver cell interction
 
 ###### Rapolas Spalinskas
-* Grow Macrophages and experimental plan preparing + protocol setup
-* Establishment of validation project on ThP1
-* Hi-CAP for all lung cancer project ongoing
-* HEMSA Kit buying
-* Human liver sample from some collaborator
-
-###### Tobias Everhorn
-
-* Working Hi-CAp overlapping with putative enrichment chipseq
-* Number of overlapping elemet or bases??
-* Finish up HICAP and sequence it
-* Working on Hi-C data on experiments and visualization
-
-###### Ayla De Paepe
-
-* Half time done 
-* Winter Conference
-* To do: CLL project "Rerun of printable pictures"
-* Deadlines for projects 
-* peak calling scripts for chiseq data for Pontus
+* EMSA lab routine set up
+* Ordering of stuffs 
+* Working with HiC 
+* Second patient replicate on HiCAP
+* Prepared ALL RNA library
+* WGS from ALL sample
 
 ###### Sailendra Pradhananga 
 
-* PCA analysis and overlapping of data 
-* Boostrapping methods in all phenotypes. 
+* Working on the final parts of the prioritzation of variants
+* Make the probe for the HiCap analysis end of next week.
 
 ###### Pontus Höjer
 
-* Second chip in GM cells and quantification; However lesser
-* Troubleshooting done 
-* Redo the GM Chipseq 
-* qPCR with 5 minutes 
+* Started bioanalyzed qPCR results
+* Seems working results
+* mix of naked DNA and on beads DNA
+* Optimize the capture DNA
+* CHip DNA seems working 
 
 ###### Anil Anandashankar
 
-* Paper submitted 
-* Updates in paper and software 
-* Call in ALL small data set and compare whether interaction is same or not?
-* Refractory for HICAP Visualization 
+* Worked on visuliser and got it working 
+* Planned to work in HiCap tools
+* on thr brach of refractor
 
-###### Pelin
-
-* Assigned work for all grp memebers
-* 4C peak calling 
-
+###### Mona
+* THp1 Validation projects
+* Updated on files and checked the new strategy on filtering
+* Validation experiment needs instruments however may taker longer time
 ___
 
 ### Open end discussion 
  
-* Paper submission and software testing
-* Custom design and interaction
+* EMSA --> Validation for enchancer interaction --> Context relevant assay
+* Probe-Probe interaction for endotherlial cells --> Network hits 
+* Aim APRIL !!!
+* Time lines -->
+* Eczema --> manuscript in the end of June/July --> Resource paper and validation of some enhancer
+* THP1 --> bau, Tau data --> Experiments focusing on one particular network --> GWASNPS acting together --> End of September
+* ALL project --> Cancer cell WGS 
+* Tier 1 ENCODE projects
+* Easter Holidays --> Arrange around it 
+* EMSA and Gene Reporter assay in May
+* Karolinka 2 Science paper --> Hicap Oligodendric cells Multiple sceloris 
