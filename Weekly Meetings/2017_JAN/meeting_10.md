@@ -22,7 +22,8 @@ ___
 * Looks good with capture
 * Second capture with ALL project
 * Validatoin of CVD this week
-* 
+* Hoping for result next week
+
 ###### Tobias Everhorn
 * Various analysis 
 * PCA on Hi-C samples and more specific analysis on flipped data and shows some interesting results
@@ -50,12 +51,9 @@ ___
 * Real experiment propbably this week?
 
 ###### Pelin
-
-* 
-* 
+* Intrepert the result from BAU and CVD
+* Network of genes and putative ehnacer 
+* How do we do functional analysis using enhancer/promoter in complex diseases??
+* Non coding mutation causes the complex disease?
 ___
-
-### Open end discussion 
-
-* 
-* 
+___
