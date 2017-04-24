@@ -1,7 +1,7 @@
 
 # April 24 2017 ---> (Supernova Alfa1)
 
-Change of ** meeting room and updates**  -->  **Blackhole Mondays  10:00am alfa3 weekly **
+Change of **meeting room and updates**  -->  **Blackhole Mondays  10:00am alfa3 weekly **
 Book it as we go along. And if it not free meet at Supernova alfa1
 ___
 
