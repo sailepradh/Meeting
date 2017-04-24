@@ -1,8 +1,7 @@
 
 # April 24 2017 ---> (Supernova Alfa1)
 
-Change of meeting room and updates -->  Blackholes at Mondays 10:00am alfa3 weekly
-
+Change of meeting room and updates -->  Blackhole @ Mondays 10:00am alfa3 weekly
 Book it as we go along. And if it not free meet at Supernova alfa1
 ___
 
@@ -18,32 +17,45 @@ ___
 #### Individual Updates
 
 ###### Rapolas Spalinskas
-* 
-* 
-* 
-*  
+
+* Done with TAUS with heart condition 
+* Looks good with capture
+* Second capture with ALL project
+* Validatoin of CVD this week
 * 
 ###### Tobias Everhorn
-* 
-* 
-* 
+* Various analysis 
+* PCA on Hi-C samples and more specific analysis on flipped data and shows some interesting results
+* Quality on Hi-C libraries may be an issues
 
 ###### Ayla De Paepe
-* 
-*
+
+* Pipelines reworking and github repository crashcourse (Anand 's help probably)
+* CLL paper deadline "June"
+* Reading of biology behind transcription factors 
+* Working with WABI support for ATAC seq dataset 
+* Exact timeplan for CLL 
+
 ###### Sailendra Pradhananga 
-* Prioritized variants list from High and low toxicity group
-* Meeting too late.. Prolly meet early??
+
+* Email them Prioritized variants list from High and low toxicity group
+* Rate on annotation in Toxicity project
 
 ###### Pontus Höjer
-*  
-* 
-*  
+
+* Chip libraries making and primer-dimers problems
+* Issues with Size selection for nanograms
+* last resort: Gel cutting 
+* Working with Afsin group on emulsion PCR
+* Real experiment propbably this week?
+
 ###### Pelin
+
 * 
 * 
 ___
 
 ### Open end discussion 
+
 * 
 * 
