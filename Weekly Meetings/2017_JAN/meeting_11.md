@@ -1,7 +1,8 @@
 
 # May 08 2017 ---> (Blackhole Alfa3)
 ___
-* Pelin update: Away from **17-23 May Turkey**
+* Pelin update
+*             : Away from **17-23 May Turkey**
 *             : Still **working and feel free to email and skype meeting** 
 *             : Circulating calendar for holidays between group members
 ___
