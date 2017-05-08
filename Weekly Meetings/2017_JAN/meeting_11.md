@@ -1,6 +1,5 @@
 
-# May o8 2017 ---> (Blackhole Alfa3)
-
+# May 08 2017 ---> (Blackhole Alfa3)
 ___
 Pelin update: Away from **17-23 May Turkey**
             : Still **working and feel free to email and skype meeting** 
@@ -13,22 +12,27 @@ ___
 * Sailendra Pradhananga sailendra.pradhananga@scilifelab.se
 * Tobias Everhorn tev@kth.se
 * Pontus Höjer phojer@kth.se  
+* Örjan Åkerborg orjan.akerborg@scilifelab.se
+* Anil Anandashankar aanil@scilifelab.se
 ___
 
 #### Individual Updates
 
 ###### Rapolas Spalinskas
 
-* Done with TAUS with heart condition 
-* Looks good with capture
-* Second capture with ALL project
-* Validatoin of CVD this week
-* Hoping for result next week
+* Toubleshooting with EMSA PCR
+* Agarasoe gel and fragment and PCR
+* Nuclear extract from Bau 
+* writing materials and Methods for paper 
+* GM cell line growing
+* Coordinate between the Anand for capture rate of TAU
 
 ###### Tobias Everhorn
 * PCA of differnt gene expression between differnt states
-* PCA on Hi-C samples and more specific analysis on flipped data and shows some interesting results
-* Quality on Hi-C libraries may be an issues
+* Comment on specific regions
+* Statistical significant difference between state A and B
+* Cooridinate with Tobias for TADS called in athesrscelorisis disease
+* Probable Meeting schedule??
 
 ###### Ayla De Paepe
 
@@ -44,17 +48,38 @@ ___
 * Rate on annotation in Toxicity project
 
 ###### Pontus Höjer
+* Full run of developed method
+* Start analysis of today using MYseq
+* Probable have the data for analysis
+* CHIPseq run??
 
-* Chip libraries making and primer-dimers problems
-* Issues with Size selection for nanograms
-* last resort: Gel cutting 
-* Working with Afsin group on emulsion PCR
-* Real experiment propbably this week?
+###### Ananda
+* Prioritize NoLPS rep 2, rep3, Bau...
+* working eczema data and uploaded in database
+* however wanted to coordinate on both set and fastest
 
-###### Pelin
-* Intrepert the result from BAU and CVD
-* Network of genes and putative ehnacer 
-* How do we do functional analysis using enhancer/promoter in complex diseases??
-* Non coding mutation causes the complex disease?
+
+###### Örjan Åkerborg 
+ * Athesclerosis project meeting updates
+ * Best, fastest ways for Publication for athesclerosis
+ * "Nature genetics" an option
+
+######  Pelin
+
+* Talked with KI professor and talked about the data
+* Meaningful analysis of data
+* Arranged a meeting 
+* Rare varaint Probe - distal files
+* Ethinicity information on these datasets
+
+
+###### Open end discussion "Everyone needs to focus"
+* last meeting discusssion and ongoing
+* Read Gene expression regulated with Transciption factor paper
+* Funtionality on non coding variants ?
+* What are mechanism that drive non-coding muation drivingthe complex disease?
+* Coregulation and coexpression mechanism in yeast?
+* Promoter - Promoter interaction
 ___
+
 ___
