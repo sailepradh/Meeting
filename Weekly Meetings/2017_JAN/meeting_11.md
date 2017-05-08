@@ -3,9 +3,8 @@
 
 ___
 
-* Pelin update: Away from **17-23 May**
-* Still working and feel free to email and skype meeting
-* 
+* Pelin update: Away from **17-23 May** However connected through email and skype meeting
+* A google calendar will be circulated so as to facilitate with vacations among group members
 ___
 
 ### Attendees
