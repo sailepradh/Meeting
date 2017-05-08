@@ -4,7 +4,7 @@
 ___
 
 * Pelin update: Away from **17-23 May**
-*              Still working and feel free to email and skype meeting
+* Still working and feel free to email and skype meeting
 * 
 ___
 
